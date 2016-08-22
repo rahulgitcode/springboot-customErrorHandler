@@ -1,4 +1,2 @@
-# springboot-customErrorHandler
-Custom Error handler in spring boot project
-
-This sample project shows how to set up a custom error handler to replace default /error white label page provided by spring boot project.
+# springboot-springSecurity
+This is a project which shows how to setup/configure spring security in boot project
